@@ -9,5 +9,4 @@ This project analyses Kenyan Hospitals Records using microsoft excel.
 - Remembering the codes to use on Github
 - Poor network connection
 - First project I am working on - new concepts
-
-#
+- Forgetting the Passphrases
